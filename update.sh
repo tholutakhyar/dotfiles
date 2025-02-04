@@ -1,4 +1,3 @@
-# update tx dotfiles
+# update the local dotfiles from repo to real one
 
-cp ~/.bashrc ~/dotfiles
-
+cp .bashrc ~/
